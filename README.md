@@ -1,2 +1,2 @@
 # portfolio
-My Personal Portfolio Made with 
+My personal portfolio website with parcel, HTML, CSS
